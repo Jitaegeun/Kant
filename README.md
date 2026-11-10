@@ -87,10 +87,10 @@ q	프로그램 종료
     - 최종결제 ?  / 
  
 ## 7. 목표 구현 방향성
-1. 상품 등록 / class, __init__, self, dict(?)
+1. 상품 등록 / class, __init__, self
 2. 상품 조회 / for , items(), print()
 3. 장바구니 담기 / def, if , elif, return
-4. 장바구니 삭제 / if , del, pop()
+4. 장바구니 삭제 / if , del
 5. 쿠폰 적용 / if, min() , return
 6. 결제 / for, sum(), if
 7. 메인 메뉴 / while, input(), break
